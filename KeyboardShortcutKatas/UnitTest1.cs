@@ -9,6 +9,8 @@ namespace KeyboardShortcutKatas
         [TestMethod]
         public void TestMethod1()
         {
+            var r = new Inline().Practice();
+            Assert.AreEqual(42, r);
         }
     }
 }
