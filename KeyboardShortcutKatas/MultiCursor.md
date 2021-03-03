@@ -25,3 +25,16 @@ delete the j and the two characters that follow
 5 majp@ngo
 6 grj%9ape
 7 drjlKagonfruit
+
+
+## Word Select 
+
+transform `1 apple => private string apple = "apple";`
+
+1 apple
+2 orange
+3 pear
+4 kiwi
+5 mango
+6 grape
+7 dragonfruit
