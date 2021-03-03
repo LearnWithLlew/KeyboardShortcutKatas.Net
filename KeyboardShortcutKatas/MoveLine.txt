@@ -1,12 +1,55 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿Sort the line number below using only move line up/down (you can move multiple lines at a time)
+move line up: ctrl+alt+shift+↑
+move lline down: ctrl+alt+shift+↓
 
-namespace KeyboardShortcutKatas
-{
-    class Class1
-    {
-    }
-}
+
+42
+18
+27
+73
+77
+83
+96
+89
+37
+63
+11
+40
+21
+84
+44
+28
+82
+74
+40
+58
+19
+42
+76
+14
+7
+65
+74
+51
+93
+95
+100
+9
+66
+22
+65
+60
+92
+27
+94
+5
+47
+30
+24
+78
+3
+67
+8
+18
+78
+31
