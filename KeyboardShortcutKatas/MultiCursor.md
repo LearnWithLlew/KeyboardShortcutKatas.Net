@@ -55,8 +55,8 @@ will open the current document in VS code at the current cursor position.
 
 transform `1 apple => private string apple = "apple";`
 
-**HINT:** alt-shift-drag selects a column in VS Code. 
-**HINT:** ctrl-shift-➔ selects a word.
+**HINT:** `alt-shift-drag` selects a column in VS Code. 
+**HINT:** `ctrl-shift-➔` selects a word.
 **HINT:** You can copy/paste columns of words.
 
 1 apple
@@ -66,3 +66,24 @@ transform `1 apple => private string apple = "apple";`
 5 mango
 6 grape
 7 dragonfruit
+
+## Select Next
+
+**HINT:** `ctrl-d` selects the next instance of the current word or selection.
+
+Transform: 
+`Lynx => Shark`
+`Dee => Doo`
+
+Baby Lynx
+Dee dee, dee dee dee dee
+Baby Lynx
+Dee dee, dee dee dee dee
+Baby Lynx
+Dee dee, dee dee dee doo
+Baby Lynx
+
+## Expand Selection
+
+**HINT:** Expand selection shortcut: `shift-alt-➔`
+
